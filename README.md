@@ -1,7 +1,6 @@
 # ToPu_GridSwich
 
-グリッドサイズをショートカットキーとUIで変更できるようにするアドオンです。
-ヘッダーにUIが追加されて、ショートカットキーでもグリッドサイズを倍率で変更できるようになります。
+グリッドサイズをショートカットキーとヘッダーUIで変更できるようにするアドオンです。
 
 <img width="97" height="29" alt="image" src="https://github.com/user-attachments/assets/a6c07f03-1813-4af2-8479-3a3915bca313" />
 
