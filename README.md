@@ -2,7 +2,8 @@
 
 グリッドサイズをショートカットキーとヘッダーUIで変更できるようにするアドオンです。
 
-<img width="476" height="662" alt="image" src="https://github.com/user-attachments/assets/44f46c6a-fdb7-4816-952c-5b38d2c80a77" />
+<img width="93" height="30" alt="image" src="https://github.com/user-attachments/assets/76e6d9e9-5332-432b-ac5d-0177f2d49c3a" />
+
 
 
 アドオンプリファレンスで倍率を設定できます。
@@ -13,7 +14,8 @@ UIからサブ倍率で実行したい場合はUIのボタンをshift+clickで�
 
 
 
-<img width="628" height="538" alt="image" src="https://github.com/user-attachments/assets/fc4fb57a-73fd-4eb1-8ae6-3377f85ac2c6" />
+<img width="476" height="662" alt="image" src="https://github.com/user-attachments/assets/f24169c5-1273-47df-a0ea-ced06a55932b" />
+
 
 デフォルトではショートカットキーがかぶっている箇所があります。
 ショートカットキーを変更するか、デフォルトのオブジェクトに割り当てられている  ] と [　のショートカットキーを変更、または無効化してください。
