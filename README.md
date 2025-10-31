@@ -14,7 +14,8 @@ UIからサブ倍率で実行したい場合はUIのボタンをshift+clickで�
 
 
 
-<img width="476" height="662" alt="image" src="https://github.com/user-attachments/assets/f24169c5-1273-47df-a0ea-ced06a55932b" />
+<img width="489" height="659" alt="image" src="https://github.com/user-attachments/assets/fb52ff29-a6e9-43bd-a430-bddf72103c0c" />
+
 
 
 デフォルトではショートカットキーがかぶっている箇所があります。
